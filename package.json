@@ -1,0 +1,22 @@
+{
+  "name": "csvtojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "json",
+    "csv"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "fs": "0.0.1-security",
+    "jszip": "^3.7.1",
+    "moment": "^2.29.1",
+    "path": "^0.12.7"
+  }
+}
